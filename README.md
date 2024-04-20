@@ -16,8 +16,9 @@ C-MEANS is a data mining project aimed at implementing the k-means algorithm in 
 
 - [K-MEANS](https://en.wikipedia.org/wiki/K-means_clustering)
 - [raylib library](https://www.raylib.com/)
+- [How to setup raylib](https://youtu.be/-F6THkPkF2I)
 - [Data mining in C by tsoding](https://www.youtube.com/watch?v=kH-hqG34ylA&t=692s&pp=ygUNZGF0YSBtYW5pbmcgYw%3D%3D)
 
-  ## For my love <3 
+## For my love <3 
 
 ![Nerd](images/nerd.jpg)
